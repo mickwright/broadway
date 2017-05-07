@@ -24,7 +24,6 @@ h3 {
 p {
   font-family: Helvetica;
   font-size: 14px;
-  color: gray;
 }
 
 .broadway {
@@ -41,9 +40,10 @@ p {
 }
 
 .footer {
-  background-color: gray;
+  background-color: dimgray;
   text-align: left;
   color: white;
+  font-size: 11px;
 }
 
 .footer a {
